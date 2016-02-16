@@ -1,0 +1,25 @@
+{
+  "name": "book-trade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idietmoran/book-trade.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idietmoran/book-trade/issues"
+  },
+  "homepage": "https://github.com/idietmoran/book-trade#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.3"
+  }
+}

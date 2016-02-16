@@ -1,0 +1,24 @@
+{
+  "name": "book-trade",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "idiet moran <idietmoran@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/idietmoran/book-trade",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "jQuery": "^2.2.0"
+  }
+}
